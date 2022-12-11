@@ -3,7 +3,7 @@
         margin-left: 0px;
     }
     .row{
-        padding: 0px;
+        padding: 2px;
         margin: 0px;
     }
     .col-3{
@@ -13,8 +13,10 @@
     .btn{
         font-size: xx-small;
         padding: 10% 20%;
+       
     }
     h1{
         font-size: smaller;
     }
+    
 }
