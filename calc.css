@@ -1,5 +1,6 @@
 @media(max-width:300px){
-    .container{margin-left: 0px;
+    .container{
+        margin-left: 0px;
     }
     .row{
         padding: 0px;
